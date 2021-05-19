@@ -50,7 +50,7 @@ ez.detectScreenShot { () -> () in
 
 We would love you for the contribution to **YourLibraryName**, check the ``LICENSE`` file for more info.
 
-## Meta
+## Author
 
 Het Prajapati – [@PrajapatiHet](https://twitter.com/PrajpatiHet) – hprajapati@albany.edu
 
