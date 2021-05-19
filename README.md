@@ -31,7 +31,7 @@ import UIKit
 import YourLibrary
 ```
 ```
-github "yourUsername/yourlibrary"
+github "het-prajapati/Africa"
 ```
 #### Manually
 1. Download and drop ```YourLibrary.swift``` in your project.  
